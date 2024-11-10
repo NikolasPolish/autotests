@@ -19,3 +19,5 @@ def test_checkout_order(browser):
     logout_page.open_menu()
     logout_page.burger_logout()
 
+
+# 123456789012345678901234567890
